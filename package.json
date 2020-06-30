@@ -1,0 +1,14 @@
+{
+  "name": "cv-tailwind",
+  "version": "1.0.0",
+  "description": "my portofolio websit build wit tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arizka yusril aziz",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^1.4.6"
+  }
+}
