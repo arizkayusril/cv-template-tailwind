@@ -10,5 +10,14 @@
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^1.4.6"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arizkayusril/cv-template-tailwind.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arizkayusril/cv-template-tailwind/issues"
+  },
+  "homepage": "https://github.com/arizkayusril/cv-template-tailwind#readme"
 }
